@@ -5,7 +5,7 @@
 
 module "caf-enterprise-scale" {
   source  = "Azure/caf-enterprise-scale/azurerm"
-  version = "4.0.2" #UPDATE THE MODULE VERSION TO LATEST. CHECK HERE FOR LATEST VERSION https://registry.terraform.io/modules/Azure/caf-enterprise-scale/azurerm/latest
+  version = "5.1.0" #UPDATE THE MODULE VERSION TO LATEST. CHECK HERE FOR LATEST VERSION https://registry.terraform.io/modules/Azure/caf-enterprise-scale/azurerm/latest
 
   default_location = var.default_location
 
