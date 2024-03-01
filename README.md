@@ -27,3 +27,8 @@ for more details https://github.com/Azure/terraform-azurerm-caf-enterprise-scale
 terraform plan
 terraform apply
 for more details https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Identity-Resources-With-Custom-Settings
+
+s
+afdsa
+
+asdfds
