@@ -1,4 +1,4 @@
-# alz-starter
+# ALZ Starter
 
 ## Step 1. Update version of module in main.tf file and version of provider in terraform.tf to latest
 
