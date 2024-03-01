@@ -5,7 +5,7 @@ terraform {
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
-      version = ">=3.58.0" #UPDATE THE PROVIDER VERSION TO LATEST. CHECK HERE FOR LATEST VERSION https://registry.terraform.io/providers/hashicorp/azurerm/latest
+      version = ">=3.94.0" #UPDATE THE PROVIDER VERSION TO LATEST. CHECK HERE FOR LATEST VERSION https://registry.terraform.io/providers/hashicorp/azurerm/latest
       configuration_aliases = [
         azurerm.connectivity,
         azurerm.management,
