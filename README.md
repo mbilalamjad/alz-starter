@@ -14,7 +14,7 @@ For more details see [here](https://github.com/Azure/terraform-azurerm-caf-enter
 ### Step 3. Update the following variable to true and udpdate settings.management.tf after which run the following commands
 terraform plan  
 terraform apply  
-for more details see [here](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Management-Resources-With-Custom-Settings)
+For more details see [here](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Management-Resources-With-Custom-Settings)
 
 ## Connectivity Resources Deployment  Phase 3
 ### Step 4. Update the following variable to true and udpdate settings.connectivity.tf after which run the following commands
@@ -24,6 +24,6 @@ For more details see [here](https://github.com/Azure/terraform-azurerm-caf-enter
 
 ## Identity Resources Deployment  Phase 4
 ### Step 5. Update the following variable to true and udpdate settings.identity.tf after which run the following commands
-terraform plan 
-terraform apply 
-for more details see [here](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Identity-Resources-With-Custom-Settings)
+terraform plan  
+terraform apply  
+For more details see [here](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki/%5BExamples%5D-Deploy-Identity-Resources-With-Custom-Settings)
