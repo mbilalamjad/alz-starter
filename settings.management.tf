@@ -24,7 +24,7 @@ locals {
       security_center = {
         enabled = true
         config = {
-          email_security_contact                                = "admin@MngEnvMCAP691735.onmicrosoft.com"
+          email_security_contact                                = "securityalerts@contoso.com"
           enable_defender_for_apis                              = true
           enable_defender_for_app_services                      = true
           enable_defender_for_arm                               = true
